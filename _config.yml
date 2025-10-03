@@ -17,8 +17,6 @@ author: Lohith Konathala
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# Leave empty to hide navbar
-navbar-links: {}
 
 ################
 # --- Logo --- #
